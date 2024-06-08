@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T17:11:26.376Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="7O2zaELwWgBoQmnykQ8_" version="24.5.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-06-08T17:13:29.108Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="S031rzdY_7ngLxle8-Je" version="24.5.2" type="github" pages="15">
   <diagram name="Dashboard" id="fUNp-02ss8JfLxEierWM">
     <mxGraphModel dx="3697" dy="2800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -4203,7 +4203,7 @@
         <mxCell id="jSw3qOBkrPl0tYLSRMpw-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#3B8DF1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.form;" vertex="1" parent="jSw3qOBkrPl0tYLSRMpw-46">
           <mxGeometry x="85.97560975609755" y="83" width="123.17073170731709" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="jSw3qOBkrPl0tYLSRMpw-50" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Customer&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Database&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="jSw3qOBkrPl0tYLSRMpw-50" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Compliance&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Database&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="2960" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jSw3qOBkrPl0tYLSRMpw-51" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -4356,7 +4356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vuk-hAPv3T9DcCWezZOb" name="Recipe-Management">
-    <mxGraphModel dx="3430" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4310" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4511,8 +4511,8 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-42">
           <mxGeometry width="229.99999999999997" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-44" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Add Customer&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-42">
-          <mxGeometry x="15" y="34.004705882352944" width="200" height="40" as="geometry" />
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-44" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Add Recipe&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-42">
+          <mxGeometry x="35" y="34.004705882352944" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-45" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#3B8DF1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.form;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-42">
           <mxGeometry x="60" y="89" width="101" height="100" as="geometry" />
@@ -4523,13 +4523,13 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-46">
           <mxGeometry width="290" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-48" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt; Update Customer&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-46">
-          <mxGeometry x="22.70815811606392" y="8.764705882352942" width="230" height="70" as="geometry" />
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-48" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt; Update &lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Recipe&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-46">
+          <mxGeometry x="37.70815811606392" y="8.764705882352942" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-49" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#3B8DF1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.form;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-46">
           <mxGeometry x="85.97560975609755" y="83" width="123.17073170731709" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-50" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Customer&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Database&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-50" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Recipe&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;Database&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="2960" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-51" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -4553,8 +4553,8 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-55">
           <mxGeometry width="256.0728744939271" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-58" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Remove Customer&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-55">
-          <mxGeometry x="-3.3400809716599156" y="19.764705882352928" width="250" height="40" as="geometry" />
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-58" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Remove &lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Recipe&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-55">
+          <mxGeometry x="16.659919028340084" y="19.764705882352928" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-59" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1500" y="1246" width="299.4" height="220" as="geometry" />
@@ -4562,7 +4562,7 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-59">
           <mxGeometry width="290" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-61" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Customer&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Data Dashboard &lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-59">
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-61" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Recipe&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Data Dashboard &lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-59">
           <mxGeometry x="39.400000000000006" y="6.9411764705882355" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-62" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3B8DF1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.opensearch_dashboards;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-59">
@@ -4591,8 +4591,8 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-68" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-66">
           <mxGeometry x="88.28999999999996" y="30" width="135.42" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-69" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/api/eatofy/hotels/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;customer/details//add&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-66">
-          <mxGeometry x="19" y="175" width="290" height="70" as="geometry" />
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-69" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/api/eatofy/hotels/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;recipe/add&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-66">
+          <mxGeometry x="44" y="175" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-70" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1864" y="2202" width="359" height="270" as="geometry" />
@@ -4603,7 +4603,7 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-72" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-70">
           <mxGeometry x="88.28999999999996" y="30" width="135.42" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-73" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/api/eatofy/hotels&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;customer/details//&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;update/&amp;lt;element&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-70">
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-73" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/api/eatofy/hotels&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;recipe/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;update/&amp;lt;element&amp;gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-70">
           <mxGeometry x="44" y="160" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-74" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -4615,8 +4615,8 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-76" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-74">
           <mxGeometry x="88.28999999999996" y="30" width="135.42" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/api/eatofy/hotels&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;customer/details//fetch&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-74">
-          <mxGeometry x="14" y="175" width="300" height="70" as="geometry" />
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-77" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/api/eatofy/hotels&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;recipe/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;fetch&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-74">
+          <mxGeometry x="44" y="175" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-78" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1038" y="2200" width="329" height="270" as="geometry" />
@@ -4627,8 +4627,8 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-80" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-78">
           <mxGeometry x="88.28999999999996" y="30" width="135.42" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-81" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/api/eatofy/hotels&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;customer/details/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/remove&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-78">
-          <mxGeometry x="-1" y="175" width="330" height="70" as="geometry" />
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-81" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/api/eatofy/hotels&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;recipe/&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;&lt;font&gt;remove&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="fYpNQ-pse6-mkixCf2-8-78">
+          <mxGeometry x="44" y="175" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fYpNQ-pse6-mkixCf2-8-47" target="fYpNQ-pse6-mkixCf2-8-71">
           <mxGeometry relative="1" as="geometry" />
@@ -4651,7 +4651,7 @@
         <mxCell id="fYpNQ-pse6-mkixCf2-8-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fYpNQ-pse6-mkixCf2-8-79" target="fYpNQ-pse6-mkixCf2-8-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fYpNQ-pse6-mkixCf2-8-89" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;Customer Relationship Management&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=110;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="fYpNQ-pse6-mkixCf2-8-89" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;Recipe Management&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=110;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-2380" y="420" width="1860" height="2700" as="geometry" />
         </mxCell>
         <mxCell id="fYpNQ-pse6-mkixCf2-8-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fYpNQ-pse6-mkixCf2-8-60" target="fYpNQ-pse6-mkixCf2-8-47">
